@@ -1,7 +1,7 @@
 public class FixDebugOne {
 /*This program displays a greeting*/
 
-   public static void main(String [] args) {
+   public static void main(String[] args) {
    
    System.out.println("Hello World!");
    }
@@ -16,4 +16,5 @@ public class FixDebugOne {
    4. Missing semicolon, it should end in semicolon ;.
    5. Missing closing brace for the class, needs an extra } at the end.
    6. Main method parameter was "String args", it should be (String [] args).
+
 */
