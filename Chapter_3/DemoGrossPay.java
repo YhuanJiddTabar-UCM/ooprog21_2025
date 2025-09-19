@@ -1,4 +1,4 @@
-public class DemoGrossPay {
+class DemoGrossPay {
 
     public static void main(String[] args) {
         calculateGross(10.0);
@@ -14,3 +14,4 @@ public class DemoGrossPay {
         System.out.println(hoursWorked + " hours at $" + hourlyRate + " per hour is $" + grossPay);
     }
 }
+
