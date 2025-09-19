@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
  class DebugThree1 { //removed public specifier for class to support older version of JAVA
-    public static void main(String args[]) {
+    public static void main(String [] args) {
         double check1;
         double check2;
         
@@ -26,3 +26,4 @@ import java.util.Scanner;
         System.out.println("The tip should be at least $" + tip);  
     }
 }
+
