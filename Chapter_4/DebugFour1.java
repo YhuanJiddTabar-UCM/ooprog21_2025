@@ -2,7 +2,7 @@
 // to instantiate a Circle object
 import java.util.Scanner;
 
-public class DebugFour1 {
+class DebugFour1 {
     public static void main(String args[]) {
         Scanner input = new Scanner(System.in);
         int radius;
@@ -19,3 +19,4 @@ public class DebugFour1 {
         System.out.println("The area is " + c.getArea());
     }
 }
+
