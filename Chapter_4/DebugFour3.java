@@ -2,7 +2,7 @@
 // to instantiate two Box objects
 import java.util.Scanner;
 
-public class DebugFour3 {
+ class DebugFour3 {
     public static void main(String args[]) {
         Scanner input = new Scanner(System.in);
         int w, l, h;
@@ -36,3 +36,4 @@ public class DebugFour3 {
         System.out.println(vol);
     }
 }
+
