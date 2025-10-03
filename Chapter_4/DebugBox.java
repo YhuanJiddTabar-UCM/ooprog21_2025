@@ -1,4 +1,4 @@
-class DebugBox {
+public class DebugBox {
     private int width;
     private int length;
     private int height;
@@ -30,4 +30,5 @@ class DebugBox {
         return vol;
     }
 }
+
 
