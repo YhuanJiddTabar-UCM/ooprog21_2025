@@ -3,7 +3,7 @@
 // Each uses a different version of the constructor
 import java.util.Scanner;
 
-public class DebugFour4 {
+class DebugFour4 {
     public static void main(String args[]) {
         Scanner input = new Scanner(System.in);
         String destinationCity;
@@ -38,3 +38,4 @@ public class DebugFour4 {
         System.out.println(" Going by " + trip.getMode());
     }
 }
+
