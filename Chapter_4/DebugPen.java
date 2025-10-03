@@ -1,4 +1,4 @@
-public class DebugPen {
+class DebugPen {
     private String color;
     private String point;
 
@@ -24,3 +24,4 @@ public class DebugPen {
         return point;
     }
 }
+
