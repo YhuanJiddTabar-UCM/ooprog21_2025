@@ -4,7 +4,7 @@
 // and the other with user-supplied values
 import java.util.Scanner;
 
-public class DebugFour2 {
+class DebugFour2 {
     public static void main(String args[]) {
         Scanner input = new Scanner(System.in);
         String color;
@@ -35,3 +35,4 @@ public class DebugFour2 {
         System.out.println(" and a " + p.getPoint() + " point.");
     }
 }
+
