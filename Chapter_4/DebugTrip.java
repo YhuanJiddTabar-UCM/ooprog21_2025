@@ -6,7 +6,7 @@
 // When three arguments are passed,
 // the last one is the mode of transportation for the trip
 
-publi class DebugTrip {
+public class DebugTrip {
     private String destination;
     private String departure;
     private String mode;
@@ -46,5 +46,6 @@ publi class DebugTrip {
         return mode;
     }
 }
+
 
 
