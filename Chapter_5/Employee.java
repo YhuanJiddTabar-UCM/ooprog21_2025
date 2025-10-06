@@ -43,9 +43,10 @@ public class Employee {
    
    public double calcuOveRate(int hoursworked) {
    
-      if(hoursworked > 40)
+      if(hoursworked >= 40)
          return(hoursworked - 40) * payrate * omultiplier;
             else
             return 0;
    }  
+
 }      
