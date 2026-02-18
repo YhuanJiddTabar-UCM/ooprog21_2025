@@ -1,0 +1,3 @@
+interface iCompute {
+    double computeSalary();
+}
